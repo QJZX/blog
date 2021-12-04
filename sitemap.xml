@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.qjzx.xyz/2021/09/12/ddf3caa3c2f6/</loc>
+    
+    <lastmod>2021-12-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.qjzx.xyz/tags/index.html</loc>
     
     <lastmod>2021-09-15</lastmod>
@@ -22,17 +29,10 @@
     
   </url>
   
-  <url>
-    <loc>https://blog.qjzx.xyz/2021/09/12/ddf3caa3c2f6/</loc>
-    
-    <lastmod>2021-09-15</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://blog.qjzx.xyz/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,7 +40,7 @@
   
   <url>
     <loc>https://blog.qjzx.xyz/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48,8 +48,8 @@
 
   
   <url>
-    <loc>https://blog.qjzx.xyz/categories/%E6%9C%AC%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <loc>https://blog.qjzx.xyz/categories/%E6%9C%AC%E7%AB%99%E7%82%B9/</loc>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
