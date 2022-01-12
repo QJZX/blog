@@ -203,10 +203,11 @@ function loadGitalk () {
       repo: 'blog',
       owner: 'QJZX',
       admin: ['QJZX'],
-      id: '05ee4069f4572e2c80b0b5a556195f9c',
+      id: '3aaec18d495dbd0c92bcea5febb2c455',
       language: 'zh-CN',
       perPage: 10,
       distractionFreeMode: false,
+      labels: theme.gitalk.label.split(',').filter(l => l),
       pagerDirection: 'last',
       createIssueManually: false,
       updateCountCallback: commentCount
